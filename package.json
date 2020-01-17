@@ -1,0 +1,24 @@
+{
+  "name": "saddam",
+  "version": "1.0.0",
+  "description": "node basic tutorial learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saddam Japhar",
+  "license": "ISC",
+  "dependencies": {
+    "activedirectory": "^0.7.2",
+    "ad": "^0.3.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mssql": "^6.0.1",
+    "mysql": "^2.17.1",
+    "node-powershell": "^4.0.0",
+    "pg": "^7.14.0",
+    "sql-tagged-template-literal": "^1.0.2",
+    "sql-template-strings": "^2.2.2"
+  }
+}
